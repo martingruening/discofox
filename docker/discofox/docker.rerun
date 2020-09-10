@@ -1,0 +1,7 @@
+#!/bin/sh
+
+docker stop discofox
+docker container rm discofox
+docker run -d --name discofox --restart always discofox:latest
+docker logs --tail 10 discofox
+
