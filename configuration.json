@@ -1,0 +1,7 @@
+{
+  "User": "martin@gruning.eu",
+  "Password": "InnCOboMJghBLWaL97uD",
+  "Broker": "tcp://kube.gruning.eu:1883",
+  "aWATTarPrices": true,
+  "Debug": true
+}
