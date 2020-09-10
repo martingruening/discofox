@@ -1,7 +1,7 @@
 {
-  "User": "martin@gruning.eu",
-  "Password": "InnCOboMJghBLWaL97uD",
-  "Broker": "tcp://kube.gruning.eu:1883",
+  "User": "xyz@abc.com",
+  "Password": "replacewithyourdiscovergyuserpassword",
+  "Broker": "tcp://my.mqttbroker.com:1883",
   "aWATTarPrices": true,
   "Debug": true
 }
